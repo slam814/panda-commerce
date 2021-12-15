@@ -23,3 +23,27 @@
 .price {
   color: #dc066d;
 }
+
+.cat-1,
+.cat-2,
+.cat-3 {
+  padding: 10px 30px;
+  border-radius: 10px;
+}
+.cat-1 {
+  background-color: orange;
+}
+.cat-2 {
+  background-color: orchid;
+}
+.cat-3 {
+  background-color: blue;
+}
+
+.categoris h1 {
+  color: wheat;
+}
+
+.categoris img {
+  width: 100px;
+}
