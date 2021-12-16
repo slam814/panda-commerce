@@ -47,3 +47,11 @@
 .categoris img {
   width: 100px;
 }
+
+footer {
+  text-align: center;
+}
+
+#email {
+  height: 300;
+}
