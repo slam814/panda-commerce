@@ -55,3 +55,8 @@ footer {
 #email {
   height: 300;
 }
+sub{
+  background-color: yellow ;
+  font-size: 10px;
+  color: rebeccapurple;
+}
